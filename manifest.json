@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Smart Open Links",
+  "version": "1.0.0",
+  "description": "Right-click to open multiple links matching your criteria in new tabs",
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "tabs"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "48": "icon.png",
+    "96": "icon.png"
+  }
+}
