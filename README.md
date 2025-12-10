@@ -26,7 +26,9 @@ A simple, safe Firefox extension that lets you right-click to open multiple link
 
 ### Method 2: Permanent Installation (Unsigned)
 
-**This option it's not safe and not recommended !**
+
+**Note:** This option it's not safe and not recommended!  
+
 For permanent installation without signing (requires changing Firefox settings):
 
 1. Type `about:config` in Firefox address bar
