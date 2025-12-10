@@ -26,6 +26,7 @@ A simple, safe Firefox extension that lets you right-click to open multiple link
 
 ### Method 2: Permanent Installation (Unsigned)
 
+**This option it's not safe and not recommended !**
 For permanent installation without signing (requires changing Firefox settings):
 
 1. Type `about:config` in Firefox address bar
@@ -38,7 +39,6 @@ For permanent installation without signing (requires changing Firefox settings):
 6. Rename the `.zip` to `.xpi`
 7. Drag the `.xpi` file into Firefox
 8. Click "Add" when prompted
-9. This option it's not safe!
 
 ### Method 3: Install from ZIP (Easiest for Daily Use)
 
